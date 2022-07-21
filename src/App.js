@@ -3,9 +3,14 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-    <h1>Hello World</h1>
-    </div>
+   <div>
+   <ul>
+   <li>Home</li>
+   <li>About</li>
+   <li>Product</li>
+   <li>Cart</li>
+   </ul>
+   </div>
   );
 }
 
